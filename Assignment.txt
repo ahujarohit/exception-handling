@@ -1,0 +1,5 @@
+1. Write a program that accepts a number as command line argument and display its table. Handle all possible exceptions. If the number is greater than 25 it should generate a custom exception. 
+
+2. Create a static function that takes a number and return its cube, it the number is greater than 100 it should generate NoCubeException. Write  a program that accepts a number as command line argument and display its cube. Cube should be calculated using the static function created. 
+
+3. In the above programs try to use finally 
