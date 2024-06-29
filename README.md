@@ -1,7 +1,7 @@
 **YouTube Series: Mastering Exception Handling in Java**
 
 
-https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn
+[https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn](https://www.youtube.com/playlist?list=PLzrb6iZd6X9IiJDrgdfjLVOpyPdVqleWn)
 
 **Examples and Assignments Download:** 
 
